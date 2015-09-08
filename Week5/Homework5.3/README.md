@@ -1,9 +1,11 @@
-HOMEWORK: HOMEWORK 5.3 (HANDS ON)
+### HOMEWORK: HOMEWORK 5.3 (HANDS ON)
 
 Who's the easiest grader on campus?
 A set of grades are loaded into the grades collection. 
 
 The documents look like this:
+
+```javascript
 {
 	"_id" : ObjectId("50b59cd75bed76f46522c392"),
 	"student_id" : 10,
@@ -35,6 +37,7 @@ The documents look like this:
 		}
 	]
 }
+```
 
 There are documents for each student (student_id) across a variety of classes (class_id). Note that not all students in the same class have the same exact number of assessments. Some students have three homework assignments, etc. 
 
