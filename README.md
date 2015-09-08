@@ -8,8 +8,8 @@ Learn everything you need to know to get started building a MongoDB-based app. T
 
 * Week 1: Introduction and Overview
 * Week 2: Creating, Reading and Updating Data (CRUD)
-Week 3: Schema Design
-Week 4: Performance
-Week 5: Aggregation Framework
-Week 6: Application Engineering
-Week 7: Case Studies
+* Week 3: Schema Design
+* Week 4: Performance
+* Week 5: Aggregation Framework
+* Week 6: Application Engineering
+* Week 7: Case Studies
